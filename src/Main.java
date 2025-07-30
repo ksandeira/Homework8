@@ -35,7 +35,7 @@ public class Main {
         int[] numbersIntReverse = {3, 2, 1};
         System.out.println(Arrays.toString(numbersIntReverse).replace("[", "").replace("]", ""));
 
-        double[] numbersDoubleReverse = {9.086, 7.654, 1.57};
+        double[] numbersDoubleReverse = {9.986, 7.654, 1.57};
         System.out.println(Arrays.toString(numbersDoubleReverse).replace("[", "").replace("]", ""));
 
         long[] numbersLongReverse = {1000L, 500L, 250L};
